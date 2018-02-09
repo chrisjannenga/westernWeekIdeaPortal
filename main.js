@@ -12,9 +12,7 @@ var southBridgeGet = {
   "url": "http://things.ubidots.com/api/v1.6/variables/5a7b37df76254201400ba661/values?token=A1E-jZjOk8ZGYPOX0xttdjp91C6U0mkpof",
   "method": "GET",
   "headers": {
-    "Cache-Control": "no-cache",
-    "Postman-Token": "e0be80f1-c867-d5a8-e6de-c3a7b9c19a39",
-    "Access-Control-Allow-Origin": "*"
+
   }
 }
 
@@ -33,8 +31,6 @@ var museumGet = {
   "url": "http://things.ubidots.com/api/v1.6/variables/5a7b37df76254201400ba662/values?token=A1E-jZjOk8ZGYPOX0xttdjp91C6U0mkpof",
   "method": "GET",
   "headers": {
-    "Cache-Control": "no-cache",
-    "Postman-Token": "e0be80f1-c867-d5a8-e6de-c3a7b9c19a39"
   }
 }
 
@@ -53,8 +49,7 @@ var indianFestGet = {
   "url": "http://things.ubidots.com/api/v1.6/variables/5a7b37df76254201400ba664/values?token=A1E-jZjOk8ZGYPOX0xttdjp91C6U0mkpof",
   "method": "GET",
   "headers": {
-    "Cache-Control": "no-cache",
-    "Postman-Token": "e0be80f1-c867-d5a8-e6de-c3a7b9c19a39"
+
   }
 }
 
@@ -73,8 +68,6 @@ var farmersMarketGet = {
   "url": "http://things.ubidots.com/api/v1.6/variables/5a7b37df76254201400ba660/values?token=A1E-jZjOk8ZGYPOX0xttdjp91C6U0mkpof",
   "method": "GET",
   "headers": {
-    "Cache-Control": "no-cache",
-    "Postman-Token": "e0be80f1-c867-d5a8-e6de-c3a7b9c19a39"
   }
 }
 
