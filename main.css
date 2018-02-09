@@ -1,0 +1,27 @@
+.bodyClass{
+  text-align: center;
+}
+
+.blueImg{
+  height: 300px;
+  width: 97px;
+}
+
+.loader{
+  height: 50px;
+  text-align: center;
+}
+
+.portalTitle{
+  font-family: 'Asap', sans-serif;
+  font-weight: bold;
+  font-size: 36px;
+  color: #21C9D6
+}
+
+.portalData{
+  color: #21C9D6;
+  font-family: 'Asap', sans-serif;
+  font-weight: bold;
+  /*font-size: 36px;*/
+}
